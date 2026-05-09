@@ -1,0 +1,5 @@
+Name: Tehila Nwosu
+Matric Number: 22cg031892
+Algorithm Used: Needleman-Wunsch (Dynamic Programming)
+Live URL: (fill in after deployment)
+GitHub Repository: https://github.com/TehilaNwosu/GlobalAlignment_Project_TehilaNwosu_22cg031892
